@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://fpkahf78451e"]
+
+[ext_resource type="Script" path="res://classka/factory.gd" id="1_hvxsw"]
+
+[node name="Factory" type="Node2D"]
+script = ExtResource("1_hvxsw")

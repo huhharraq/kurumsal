@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://dre6yovcrdft4"]
+
+[ext_resource type="Script" path="res://classka/ceramic.gd" id="1_ci1av"]
+
+[node name="ceramic" type="Node2D"]
+script = ExtResource("1_ci1av")

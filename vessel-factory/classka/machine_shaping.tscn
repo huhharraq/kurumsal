@@ -1,0 +1,6 @@
+[gd_scene load_steps=2 format=3 uid="uid://bxu0xvoic1ofa"]
+
+[ext_resource type="Script" path="res://classka/machine_shaping.gd" id="1_p88hb"]
+
+[node name="machine_shaping" type="Node2D"]
+script = ExtResource("1_p88hb")
