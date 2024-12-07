@@ -73,3 +73,36 @@ Need attributes for
     - influence of shape, crazing on price
 - MINES
     - mineral constitution
+
+---
+
+Devkalogka dec 7 2024
+
+actual maybe make we factory just some can of vessel for machinekinson
+
+hence we attribute for machine need
+THREE CLASSES:
+Preparatiob & shaping
+firings & dryings
+finishingsssss & decoratiob
+storage alzo?
+
+oga make we say electricity dey for free is but factory building cone have max wattage capasity
+
+# Preparation and Shaping
+Power Consumption, Production Capacity, Precision, Noise Level
+
+# Firing and Drying
+Temperature Range, Heating Rate, Cooling Rate, Energy Efficiency, Kiln Size
+
+# Finishing and Decoration
+Precision, Speed, Material Usage, Environmental Impact
+
+What those each player haveka
+
+- Mines
+- Factories
+- Wookers
+- Money
+- Clay
+- Hnand
